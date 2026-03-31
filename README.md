@@ -3,7 +3,7 @@ my original vanilla.js shorcuts
 
 ## Usage
 ```html
-<script src="https://raw.githubusercontent.com/asterf/aster.js/refs/heads/main/aster.js"></script>
+<script src="https://raw.githubusercontent.com/asterf/aster.js/refs/heads/main/release/v1.js"></script>
 ```
 
 ### AI assist
