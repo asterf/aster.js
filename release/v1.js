@@ -67,3 +67,6 @@ globalThis.HTMLElement.prototype.add=function(html){
   else this.append(node);
   return node;
 };
+globalThis.HTMLElement.prototype.event=function(type,func,...arg){
+  this.addEventListener(type,func,...arg);
+}
